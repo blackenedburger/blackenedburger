@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackenedburger
-- 👀 I’m interested in starting a new career direction
+- 👀 I’m interested in starting a new career direction.  I have experience with python and php
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
